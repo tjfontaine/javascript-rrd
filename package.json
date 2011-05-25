@@ -17,7 +17,8 @@
         "node": "*"
     },
     "directories": {
-        "lib": "./lib"
+        "lib": "./lib",
+        "example": "./examples"
     },
     "main": "./lib/index.js"
 }
