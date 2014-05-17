@@ -1,0 +1,24 @@
+{
+    "author": {
+        "name": "Timothy J. Fontaine",
+        "email": "tjfontaine@gmail.com",
+        "url": "http://www.atxconsulting.com"
+    },
+    "license": "MIT/X11",
+    "name": "javascript-rrd",
+    "description": "Native RRDtool database interface",
+    "version": "0.0.0",
+    "homepage": "http://sourceforge.net/projects/javascriptrrd/",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/msiebuhr/javascript-rrd.git"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "directories": {
+        "lib": "./lib",
+        "example": "./examples"
+    },
+    "main": "./lib/index.js"
+}
